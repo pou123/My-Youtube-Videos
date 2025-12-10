@@ -3,16 +3,28 @@
     {
       "name": "Liga",
       "videos": [
-        { "id": "Vsf7mreoU_E" },
-        { "id": "NHMD-iTWb6g" },
-        { "id": "VENUZ1TJIIo" }
+        {
+          "id": "Vsf7mreoU_E"
+        },
+        {
+          "id": "NHMD-iTWb6g"
+        },
+        {
+          "id": "VENUZ1TJIIo"
+        }
       ]
     },
     {
       "name": "scrap mechanic",
       "videos": [
-        { "id": "-VZYl3nHrTI" }
+        {
+          "id": "-VZYl3nHrTI"
+        }
       ]
+    },
+    {
+      "name": "Minecraft",
+      "videos": []
     }
   ]
 }
